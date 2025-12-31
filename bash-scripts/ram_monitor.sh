@@ -7,4 +7,4 @@ if [[ $FREE_RAM -lt 500 ]]; then
 else
   echo "Sufficient RAM: ${FREE_RAM}MB"
 fi
-
+ 

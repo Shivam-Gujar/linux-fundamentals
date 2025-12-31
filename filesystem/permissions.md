@@ -1,4 +1,4 @@
-# Linux File Permissions
+# Linux File Permissions  
 
 Permissions define who can read, write, or execute a file.
 

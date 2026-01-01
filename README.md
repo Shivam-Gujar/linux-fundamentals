@@ -8,11 +8,6 @@ It focuses on **practical usage**, not copied theory.
 - Practice real commands and Bash scripting
 - Prepare for DevOps / Cloud / System roles
 
-## 📌 Who is this for?
-- Linux beginners
-- Students preparing for internships
-- Anyone who wants practical Linux skills
-
 ## 🧱 Repository Structure
 - basics/        → Core Linux commands
 - filesystem/   → Permissions & ownership
